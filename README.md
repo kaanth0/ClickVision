@@ -101,3 +101,4 @@ Geliştiren: Kaanth0
 Projeyi beğendiysen bir ⭐ bırakmayı unutma 😊
 
 - Metin2 nelerle uğraştırıyorsun beni -
+- Metin2 için kullanacak arkadaşlara bazı AC'ler opencv yi yakalıyor dikkat
